@@ -22,11 +22,11 @@ var myName;
 console.log(myName); // prints => undefined
 
 // 2. initialization or assignment //
-myName = 'john';
+myName = 'Mari';
 console.log(myName); // prints => john
 
 // 3. re-assignment //
-myName = 'bob';
+myName = 'Sam';
 console.log(myName); // prints => bob
 
 // NOTE: We can assign and re-assign anything to a variable - we cannot do this with constants //
@@ -246,5 +246,7 @@ for(n=10; n>=0; n--) { //count BACKWARDS
     }//loop
     System.out.println("Blast off!");
 
-
+/*
+0.Functions:
+*A function is a part of a program that has its own name. This name can be used in the program as a command (this command is called a function call). When a function is called, the commands of which it consists are executed.
 
